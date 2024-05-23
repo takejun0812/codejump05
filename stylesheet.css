@@ -31,7 +31,8 @@ p {
 
 header {
     color: white;
-    height: 600px;
+    height: 100vh;
+    width: 100%;
     background-image: url(../img/mainvisual-pc.jpg);
     background-position: 50% 50%;
     background-size: cover;
@@ -172,7 +173,6 @@ header {
     margin-top: 100px;
     margin-right: 20px;
     position: relative;
-
 }
 
 .cp-text {

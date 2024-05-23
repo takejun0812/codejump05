@@ -68,6 +68,7 @@ header {
 }
 
 .header-title {
+    display: inline-block;
     margin-left: 60px;
 }
 
@@ -276,6 +277,9 @@ footer {
     writing-mode: vertical-rl;
 }
 
+.footer-title {
+    display: inline-block;
+}
 .footer-title img {
     width: 40px;
 }
